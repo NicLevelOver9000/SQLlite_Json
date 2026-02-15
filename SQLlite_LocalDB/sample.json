@@ -1,0 +1,452 @@
+[
+  {
+    "host": "Host1",
+    "qmgr": "Qmgr1",
+    "local": "Local1"
+  },
+  {
+    "host": "Host1",
+    "qmgr": "Qmgr2",
+    "local": "Local1"
+  },
+  {
+    "host": "Host1",
+    "qmgr": "Qmgr3",
+    "local": "Local2"
+  },
+  {
+    "host": "Host2",
+    "qmgr": "Qmgr1",
+    "local": "Local2"
+  },
+  {
+    "host": "Host2",
+    "qmgr": "Qmgr2",
+    "local": "Local3"
+  },
+  {
+    "host": "Host2",
+    "qmgr": "Qmgr3",
+    "local": "Local3"
+  },
+  {
+    "host": "Host3",
+    "qmgr": "Qmgr1",
+    "local": "Local1"
+  },
+  {
+    "host": "Host3",
+    "qmgr": "Qmgr2",
+    "local": "Local4"
+  },
+  {
+    "host": "Host3",
+    "qmgr": "Qmgr3",
+    "local": "Local4"
+  },
+  {
+    "host": "Host4",
+    "qmgr": "Qmgr1",
+    "local": "Local2"
+  },
+  {
+    "host": "Host4",
+    "qmgr": "Qmgr2",
+    "local": "Local5"
+  },
+  {
+    "host": "Host4",
+    "qmgr": "Qmgr3",
+    "local": "Local5"
+  },
+  {
+    "host": "Host5",
+    "qmgr": "Qmgr1",
+    "local": "Local1"
+  },
+  {
+    "host": "Host5",
+    "qmgr": "Qmgr2",
+    "local": "Local6"
+  },
+  {
+    "host": "Host5",
+    "qmgr": "Qmgr3",
+    "local": "Local6"
+  },
+  {
+    "host": "Host6",
+    "qmgr": "Qmgr1",
+    "local": "Local3"
+  },
+  {
+    "host": "Host6",
+    "qmgr": "Qmgr2",
+    "local": "Local7"
+  },
+  {
+    "host": "Host6",
+    "qmgr": "Qmgr3",
+    "local": "Local7"
+  },
+  {
+    "host": "Host7",
+    "qmgr": "Qmgr1",
+    "local": "Local4"
+  },
+  {
+    "host": "Host7",
+    "qmgr": "Qmgr2",
+    "local": "Local8"
+  },
+  {
+    "host": "Host7",
+    "qmgr": "Qmgr3",
+    "local": "Local8"
+  },
+  {
+    "host": "Host8",
+    "qmgr": "Qmgr1",
+    "local": "Local5"
+  },
+  {
+    "host": "Host8",
+    "qmgr": "Qmgr2",
+    "local": "Local9"
+  },
+  {
+    "host": "Host8",
+    "qmgr": "Qmgr3",
+    "local": "Local9"
+  },
+  {
+    "host": "Host9",
+    "qmgr": "Qmgr1",
+    "local": "Local6"
+  },
+  {
+    "host": "Host9",
+    "qmgr": "Qmgr2",
+    "local": "Local10"
+  },
+  {
+    "host": "Host9",
+    "qmgr": "Qmgr3",
+    "local": "Local10"
+  },
+  {
+    "host": "Host10",
+    "qmgr": "Qmgr1",
+    "local": "Local7"
+  },
+  {
+    "host": "Host10",
+    "qmgr": "Qmgr2",
+    "local": "Local11"
+  },
+  {
+    "host": "Host10",
+    "qmgr": "Qmgr3",
+    "local": "Local11"
+  },
+  {
+    "host": "Host11",
+    "qmgr": "Qmgr1",
+    "local": "Local12"
+  },
+  {
+    "host": "Host11",
+    "qmgr": "Qmgr2",
+    "local": "Local12"
+  },
+  {
+    "host": "Host11",
+    "qmgr": "Qmgr3",
+    "local": "Local13"
+  },
+  {
+    "host": "Host12",
+    "qmgr": "Qmgr1",
+    "local": "Local13"
+  },
+  {
+    "host": "Host12",
+    "qmgr": "Qmgr2",
+    "local": "Local14"
+  },
+  {
+    "host": "Host12",
+    "qmgr": "Qmgr3",
+    "local": "Local14"
+  },
+  {
+    "host": "Host13",
+    "qmgr": "Qmgr1",
+    "local": "Local15"
+  },
+  {
+    "host": "Host13",
+    "qmgr": "Qmgr2",
+    "local": "Local15"
+  },
+  {
+    "host": "Host13",
+    "qmgr": "Qmgr3",
+    "local": "Local16"
+  },
+  {
+    "host": "Host14",
+    "qmgr": "Qmgr1",
+    "local": "Local16"
+  },
+  {
+    "host": "Host14",
+    "qmgr": "Qmgr2",
+    "local": "Local17"
+  },
+  {
+    "host": "Host14",
+    "qmgr": "Qmgr3",
+    "local": "Local17"
+  },
+  {
+    "host": "Host15",
+    "qmgr": "Qmgr1",
+    "local": "Local18"
+  },
+  {
+    "host": "Host15",
+    "qmgr": "Qmgr2",
+    "local": "Local18"
+  },
+  {
+    "host": "Host15",
+    "qmgr": "Qmgr3",
+    "local": "Local19"
+  },
+  {
+    "host": "Host16",
+    "qmgr": "Qmgr1",
+    "local": "Local19"
+  },
+  {
+    "host": "Host16",
+    "qmgr": "Qmgr2",
+    "local": "Local20"
+  },
+  {
+    "host": "Host16",
+    "qmgr": "Qmgr3",
+    "local": "Local20"
+  },
+  {
+    "host": "Host17",
+    "qmgr": "Qmgr1",
+    "local": "Local21"
+  },
+  {
+    "host": "Host17",
+    "qmgr": "Qmgr2",
+    "local": "Local21"
+  },
+  {
+    "host": "Host17",
+    "qmgr": "Qmgr3",
+    "local": "Local22"
+  },
+  {
+    "host": "Host18",
+    "qmgr": "Qmgr1",
+    "local": "Local22"
+  },
+  {
+    "host": "Host18",
+    "qmgr": "Qmgr2",
+    "local": "Local23"
+  },
+  {
+    "host": "Host18",
+    "qmgr": "Qmgr3",
+    "local": "Local23"
+  },
+  {
+    "host": "Host19",
+    "qmgr": "Qmgr1",
+    "local": "Local24"
+  },
+  {
+    "host": "Host19",
+    "qmgr": "Qmgr2",
+    "local": "Local24"
+  },
+  {
+    "host": "Host19",
+    "qmgr": "Qmgr3",
+    "local": "Local25"
+  },
+  {
+    "host": "Host20",
+    "qmgr": "Qmgr1",
+    "local": "Local25"
+  },
+  {
+    "host": "Host20",
+    "qmgr": "Qmgr2",
+    "local": "Local26"
+  },
+  {
+    "host": "Host20",
+    "qmgr": "Qmgr3",
+    "local": "Local26"
+  },
+  {
+    "host": "Host21",
+    "qmgr": "Qmgr1",
+    "local": "Local27"
+  },
+  {
+    "host": "Host21",
+    "qmgr": "Qmgr2",
+    "local": "Local27"
+  },
+  {
+    "host": "Host21",
+    "qmgr": "Qmgr3",
+    "local": "Local28"
+  },
+  {
+    "host": "Host22",
+    "qmgr": "Qmgr1",
+    "local": "Local28"
+  },
+  {
+    "host": "Host22",
+    "qmgr": "Qmgr2",
+    "local": "Local29"
+  },
+  {
+    "host": "Host22",
+    "qmgr": "Qmgr3",
+    "local": "Local29"
+  },
+  {
+    "host": "Host23",
+    "qmgr": "Qmgr1",
+    "local": "Local30"
+  },
+  {
+    "host": "Host23",
+    "qmgr": "Qmgr2",
+    "local": "Local30"
+  },
+  {
+    "host": "Host23",
+    "qmgr": "Qmgr3",
+    "local": "Local31"
+  },
+  {
+    "host": "Host24",
+    "qmgr": "Qmgr1",
+    "local": "Local31"
+  },
+  {
+    "host": "Host24",
+    "qmgr": "Qmgr2",
+    "local": "Local32"
+  },
+  {
+    "host": "Host24",
+    "qmgr": "Qmgr3",
+    "local": "Local32"
+  },
+  {
+    "host": "Host25",
+    "qmgr": "Qmgr1",
+    "local": "Local33"
+  },
+  {
+    "host": "Host25",
+    "qmgr": "Qmgr2",
+    "local": "Local33"
+  },
+  {
+    "host": "Host25",
+    "qmgr": "Qmgr3",
+    "local": "Local34"
+  },
+  {
+    "host": "Host26",
+    "qmgr": "Qmgr1",
+    "local": "Local34"
+  },
+  {
+    "host": "Host26",
+    "qmgr": "Qmgr2",
+    "local": "Local35"
+  },
+  {
+    "host": "Host26",
+    "qmgr": "Qmgr3",
+    "local": "Local35"
+  },
+  {
+    "host": "Host27",
+    "qmgr": "Qmgr1",
+    "local": "Local36"
+  },
+  {
+    "host": "Host27",
+    "qmgr": "Qmgr2",
+    "local": "Local36"
+  },
+  {
+    "host": "Host27",
+    "qmgr": "Qmgr3",
+    "local": "Local37"
+  },
+  {
+    "host": "Host28",
+    "qmgr": "Qmgr1",
+    "local": "Local37"
+  },
+  {
+    "host": "Host28",
+    "qmgr": "Qmgr2",
+    "local": "Local38"
+  },
+  {
+    "host": "Host28",
+    "qmgr": "Qmgr3",
+    "local": "Local38"
+  },
+  {
+    "host": "Host29",
+    "qmgr": "Qmgr1",
+    "local": "Local39"
+  },
+  {
+    "host": "Host29",
+    "qmgr": "Qmgr2",
+    "local": "Local39"
+  },
+  {
+    "host": "Host29",
+    "qmgr": "Qmgr3",
+    "local": "Local40"
+  },
+  {
+    "host": "Host30",
+    "qmgr": "Qmgr1",
+    "local": "Local40"
+  },
+  {
+    "host": "Host30",
+    "qmgr": "Qmgr2",
+    "local": "Local41"
+  },
+  {
+    "host": "Host30",
+    "qmgr": "Qmgr3",
+    "local": "Local41"
+  }
+]
